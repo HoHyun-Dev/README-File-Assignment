@@ -1,6 +1,8 @@
 # README-File-Assingment
 How to use Linux commands and vim editor macros
 
+작성자: 20205095 김호현
+
 # 리눅스 명령어
 ---
 # ***top (table of processes)***
@@ -38,7 +40,7 @@ How to use Linux commands and vim editor macros
 
 ---
 # ***jobs***
-* 작업이 중지된 상태, 백그라운드로 진행 중인 작업 	상태, 변경 되었지만 보고되지 않은 상태 등을 표시하는 	명령어
+* 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경 되었지만 보고되지 않은 상태 등을 표시하는 명령어
 
 |옵션|내용|
 |-----|-----|
