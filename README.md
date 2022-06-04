@@ -77,7 +77,6 @@ How to use Linux commands and vim editor macros
 
 # vim 에디터에서 매크로 사용방법
 
-# ***매크로 사용방법***
-|매크로 저장하기||
-|-----|-----|
+![macro](https://user-images.githubusercontent.com/106680760/171987897-1af9f981-9ca5-4903-b8d8-e34dee316047.PNG)
 
+### [macro자료 출처](https://clem.tistory.com/29 "macro Explanation")
