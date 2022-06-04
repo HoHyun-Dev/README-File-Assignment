@@ -1,4 +1,4 @@
-# README-File-Assigment
+# README-File-Assingment
 How to use Linux commands and vim editor macros
 
 # 리눅스 명령어
@@ -16,8 +16,14 @@ How to use Linux commands and vim editor macros
 * b : Batch 모드로 작동
 * 1 : CPU Core별로 사용량 보여줌
 
-
-#### [top자료 출처](https://zzsza.github.io/development/2018/07/18/linux-top/ "top Explanation")
+### [top자료 출처](https://zzsza.github.io/development/2018/07/18/linux-top/ "top Explanation")
 ---
 
 ## PS(Process Status)
+
+|옵션|내용|
+|-----|-----|
+|-A|모든 프로세스를 출력한다.|
+|a(BSD계열)|터미널과 연관된 프로세스를 출력하는 옵션이다.보통x옵션과 연계하여 모든 프로세스를 출력할 때 사용한다.|
+
+### [PS자료 출처](https://jhnyang.tistory.com/268 "PS Explanation")
