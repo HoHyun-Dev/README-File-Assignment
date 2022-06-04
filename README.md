@@ -19,11 +19,17 @@ How to use Linux commands and vim editor macros
 ### [top자료 출처](https://zzsza.github.io/development/2018/07/18/linux-top/ "top Explanation")
 ---
 
-## PS(Process Status)
+# PS(Process Status)
 
 |옵션|내용|
 |-----|-----|
-|-A|모든 프로세스를 출력한다.|
-|a(BSD계열)|터미널과 연관된 프로세스를 출력하는 옵션이다.보통x옵션과 연계하여 모든 프로세스를 출력할 때 사용한다.|
+|-e|실행중인 모든 프로세스의 정보를 출력한다.|
+|-f|프로세스에 대한 자세한 정보를 출력한다.(PPID 확인 가능)|
+|-u [사용자이름]|특정 사용자에 대한 모든 프로세스의 정보를 출력|
+|-p pid|pid로 지정한 프로세스의 정보를 출력|
+|u|프로세스 소유자의 이름,CPU 사용량,메모리 사용량 등 상세 정보를 출력|
+|a|터미널에서 실행한 프로세스의 정보를 출력|
+|x|실행 중인 모든 프로세스의 정보를 출력|
+### [PS자료 출처](https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=jsky10503&logNo=220728880785&parentCategoryNo=&categoryNo=109&viewDate=&isShowPopularPosts=false&from=postView "PS Explanation")
 
-### [PS자료 출처](https://jhnyang.tistory.com/268 "PS Explanation")
+---
