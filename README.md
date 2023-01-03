@@ -1,7 +1,7 @@
 # README-File-Assingment
 How to use Linux commands and vim editor macros
 
-작성자: 20205095 김호현
+작성자: 20205095 김호현 a
 
 # 리눅스 명령어
 ---
